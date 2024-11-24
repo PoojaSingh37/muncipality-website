@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:ital,wght@0,300..900;1,300..900&display=swap');
+
+@font-face {
+  font-family: 'Product Sans';
+  font-style: normal;
+  font-weight: normal;
+  src: url('../fonts/ProductSans-Regular.ttf') format('truetype'),
+    url('../fonts/ProductSans-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  src: url('../fonts/ProductSans-Bold.ttf') format('truetype'), url('../fonts/ProductSans-Bold.ttf') format('truetype');
+}
+
+html,
+body {
+  font-family: "Red Hat Display", sans-serif;}
